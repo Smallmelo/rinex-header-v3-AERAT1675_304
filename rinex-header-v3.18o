@@ -4,7 +4,7 @@ RINEXSLX3 3.2.3     HEMISPHERE          20181205 190958 UTC PGM / RUN BY / DATE
 Observer Name       Agency Name                             OBSERVER / AGENCY   
 My Marker Name                                              MARKER NAME         
 Marker No                                                   MARKER NUMBER       
-18303007            DF4r                1.2Qm01t            REC # / TYPE / VERS 
+		            Arrow 100 GNSS      1.2Qm01t            REC # / TYPE / VERS 
      0                                                      RCV CLOCK OFFS APPL 
 A45                 N2D4                                    ANT # / TYPE        
 0.000               0.000               0.000               ANTENNA: DELTA H/E/N
