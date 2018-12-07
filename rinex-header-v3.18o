@@ -6,7 +6,7 @@ My Marker Name                                              MARKER NAME
 Marker No                                                   MARKER NUMBER       
 		            Arrow 100 GNSS      1.2Qm01t            REC # / TYPE / VERS 
      0                                                      RCV CLOCK OFFS APPL 
-A45                 N2D4                                    ANT # / TYPE        
+					AERAT1675_304   NONE					ANT # / TYPE       
 0.000               0.000               0.000               ANTENNA: DELTA H/E/N
      1.000                                                  INTERVAL            
 G    3 L1C C1C D1C 				                            SYS / # / OBS TYPES 
