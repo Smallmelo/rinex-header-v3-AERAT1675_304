@@ -9,9 +9,9 @@ Marker No                                                   MARKER NUMBER
 A45                 N2D4                                    ANT # / TYPE        
 0.000               0.000               0.000               ANTENNA: DELTA H/E/N
      1.000                                                  INTERVAL            
-G    6 L1C C1C D1C L2Y C2Y D2Y                              SYS / # / OBS TYPES 
-R    6 L1C C1C D1C L2C C2C D2C                              SYS / # / OBS TYPES 
-C    9 L2I C2I D2I L7I C7I D7I L6I C6I D6I                  SYS / # / OBS TYPES 
+G    3 L1C C1C D1C 				                            SYS / # / OBS TYPES 
+R    3 L1C C1C D1C                              			SYS / # / OBS TYPES 
+C    3 L2I C2I D2I                   						SYS / # / OBS TYPES 
   2018    12     5    19     4    4.000000      GPS         TIME OF FIRST OBS   
   2018    12     5    19    10   11.000000      GPS         TIME OF LAST OBS    
  24 R01  1 R02 -4 R03  5 R04  6 R05  1 R06 -4 R07  5 R08 -6 GLONASS SLOT / FRQ #
