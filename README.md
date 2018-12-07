@@ -15,7 +15,7 @@ The antenna name & dome characteristics must appear in columns 21-40 and must be
 Get your antenna name and dome characteristics from NGS (https://www.ngs.noaa.gov/ANTCAL/#).  If you aren’t sure what your antenna model is, reach out to the maker of your GPS receiver.
 To be certain you are entering your antenna information correctly, Open your antenna’s ANTEX file from the NOAA Antenna database and copy/paste it into characters 21-40 of your header.
 
-[Sample ANTEX](https://www.ngs.noaa.gov/ANTCAL/LoadFile?file=AERAT1675_304_NONE.atx) file for the AT1675-304 made by Aero Antenna Technology for the Eos Arrow 100 GPS.
+[Sample ANTEX](https://www.ngs.noaa.gov/ANTCAL/LoadFile?file=AERAT1675_304_NONE.atx) antenna file for the AT1675-304 made by Aero Antenna Technology for the Eos Arrow 100 GPS.
 
 ### “SYS / # / OBS TYPES” 
 * Be sure that your header indicates single frequency
