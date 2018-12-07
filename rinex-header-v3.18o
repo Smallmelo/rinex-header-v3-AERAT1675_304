@@ -1,0 +1,21 @@
+     3.02           OBSERVATION DATA    M                   RINEX VERSION / TYPE
+G = GPS R = GLONASS C = BDS M = MIXED                       COMMENT             
+RINEXSLX3 3.2.3     HEMISPHERE          20181205 190958 UTC PGM / RUN BY / DATE 
+Observer Name       Agency Name                             OBSERVER / AGENCY   
+My Marker Name                                              MARKER NAME         
+Marker No                                                   MARKER NUMBER       
+18303007            DF4r                1.2Qm01t            REC # / TYPE / VERS 
+     0                                                      RCV CLOCK OFFS APPL 
+A45                 N2D4                                    ANT # / TYPE        
+2.500               5.500               8.500               ANTENNA: DELTA H/E/N
+     1.000                                                  INTERVAL            
+G    6 L1C C1C D1C L2Y C2Y D2Y                              SYS / # / OBS TYPES 
+R    6 L1C C1C D1C L2C C2C D2C                              SYS / # / OBS TYPES 
+C    9 L2I C2I D2I L7I C7I D7I L6I C6I D6I                  SYS / # / OBS TYPES 
+  2018    12     5    19     4    4.000000      GPS         TIME OF FIRST OBS   
+  2018    12     5    19    10   11.000000      GPS         TIME OF LAST OBS    
+ 24 R01  1 R02 -4 R03  5 R04  6 R05  1 R06 -4 R07  5 R08 -6 GLONASS SLOT / FRQ #
+    R09 -2 R10 -7 R11  0 R12 -1 R13 -2 R14 -7 R15  0 R16 -1 GLONASS SLOT / FRQ #
+    R17  4 R18 -3 R19  3 R20  2 R21  4 R22 -3 R23  3 R24  2 GLONASS SLOT / FRQ #
+ C1C    0.000 C1P    0.000 C2C    0.000 C2P    0.000        GLONASS COD/PHS/BIS 
+                                                            END OF HEADER  
