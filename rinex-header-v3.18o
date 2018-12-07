@@ -4,14 +4,14 @@ RINEXSLX3 3.2.3     HEMISPHERE          20181205 190958 UTC PGM / RUN BY / DATE
 Observer Name       Agency Name                             OBSERVER / AGENCY   
 My Marker Name                                              MARKER NAME         
 Marker No                                                   MARKER NUMBER       
-		            Arrow 100 GNSS      1.2Qm01t            REC # / TYPE / VERS 
+                    Arrow 100 GNSS      1.2Qm01t            REC # / TYPE / VERS 
      0                                                      RCV CLOCK OFFS APPL 
-					AERAT1675_304   NONE					ANT # / TYPE       
+                    AERAT1675_304   NONE                    ANT # / TYPE       
 0.000               0.000               0.000               ANTENNA: DELTA H/E/N
      1.000                                                  INTERVAL            
-G    3 L1C C1C D1C 				                            SYS / # / OBS TYPES 
-R    3 L1C C1C D1C                              			SYS / # / OBS TYPES 
-C    3 L2I C2I D2I                   						SYS / # / OBS TYPES 
+G    3 L1C C1C D1C                                          SYS / # / OBS TYPES 
+R    3 L1C C1C D1C                                          SYS / # / OBS TYPES 
+C    3 L2I C2I D2I                                          SYS / # / OBS TYPES 
   2018    12     5    19     4    4.000000      GPS         TIME OF FIRST OBS   
   2018    12     5    19    10   11.000000      GPS         TIME OF LAST OBS    
  24 R01  1 R02 -4 R03  5 R04  6 R05  1 R06 -4 R07  5 R08 -6 GLONASS SLOT / FRQ #
