@@ -12,8 +12,10 @@ The full instructions for submissions are available on their website. They are r
 
 ### “ANTENNA #/ TYPE"
 The antenna name & dome characteristics must appear in columns 21-40 and must be 20 characters log in the "ANT # / TYPE row” row.  If there are no dome characteristics, be sure to “right indent” the phrase “NONE” within columns 21-40
-Get your antenna name and dome characteristics from OPUS (https://www.ngs.noaa.gov/ANTCAL/#).  If you aren’t sure what your antenna model is, reach out to the maker of your GPS receiver.
+Get your antenna name and dome characteristics from NGS (https://www.ngs.noaa.gov/ANTCAL/#).  If you aren’t sure what your antenna model is, reach out to the maker of your GPS receiver.
 To be certain you are entering your antenna information correctly, Open your antenna’s ANTEX file from the NOAA Antenna database and copy/paste it into characters 21-40 of your header.
+
+[Sample ANTEX](https://www.ngs.noaa.gov/ANTCAL/LoadFile?file=AERAT1675_304_NONE.atx) file for the AT1675-304 made by Aero Antenna Technology for the Eos Arrow 100 GPS.
 
 ### “SYS / # / OBS TYPES” 
 * Be sure that your header indicates single frequency
@@ -27,10 +29,10 @@ To be certain you are entering your antenna information correctly, Open your ant
 
 ## General Notes:
 
-Make sure that there are no tabs in your header, only spaces.
-If the tool fails in static mode and it fails, it will run it in kinematic mode.
-Pay attention to the formatting requirements for v2 and v3 (ftp://igs.org/pub/data/format/rinex303.pdf)
-Unlike OPUS, there are no time restrictions for static submissions
+* Make sure that there are no tabs in your header, only spaces.
+* If the tool fails in static mode and it fails, it will run it in kinematic mode.
+* Pay attention to the formatting requirements for v2 and v3 (ftp://igs.org/pub/data/format/rinex303.pdf)
+* Unlike [OPUS](https://www.ngs.noaa.gov/OPUS/), there are no time restrictions for static submissions
 
 
 
