@@ -27,6 +27,11 @@ To be certain you are entering your antenna information correctly, Open your ant
   * R    3 L1C C1C D1C
   * C    3 L2I C2I D2I
 
+
+### "ANTENNA: DELTA H/E/N"
+* The first value (H) is the height of your antenna above the marker
+
+
 ## General Notes:
 
 * Make sure that there are no tabs in your header, only spaces.
